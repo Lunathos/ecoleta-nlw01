@@ -61,9 +61,9 @@ Sqlite |:white_check_mark: |         |        |
 ## :pencil: License
 This project is under the MIT license. See the [LICENSE](https://github.com/Lunathos/ecoleta-nlw01/blob/master/LICENSE) for more information.
 
+:earth_americas: [Let's Connect!](https://www.linkedin.com/in/davi-carvalho-61b8691ab/)
+
 <h4 align="center">Portanto, quer comais quer bebais, ou façais outra qualquer coisa, fazei tudo para glória de Deus.
-
-1 Coríntios 10:31
-
+ 1 Coríntios 10:31
 </h4>
 
