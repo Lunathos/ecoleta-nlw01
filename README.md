@@ -33,7 +33,7 @@ React Icons |          |  :white_check_mark: |        |
 React Router Dom |          | :white_check_mark: | :white_check_mark: |
 React Navigation |          |         | :white_check_mark: |
 React Native Maps |          |         | :white_check_mark: |
-Axios | :white_check_mark: | :white_check_mark: |        |
+Axios | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 Expo |          |         | :white_check_mark: |
 Expo Mail Composer |          |         | :white_check_mark: |
 Expo Location |          |         | :white_check_mark: |
